@@ -32,6 +32,6 @@ com foco em backend robusto e frontends performáticos.
 
 <p align="left">
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/saymon-oliveira-de-castro-821b71319/)" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/saymon-oliveira-de-castro-821b71319" />
   </a>
 </p>
