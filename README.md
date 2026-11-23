@@ -1,13 +1,13 @@
 <a href="https://saymonthedev.com">
-  <img src="./banner.svg" alt="Saymon Oliveira de Castro, desenvolvedor Full Stack" width="100%" />
+  <img src="./banner.svg" alt="Saymon Oliveira de Castro, desenvolvedor Full Stack: sites e agendas online para empresas de serviço" width="100%" />
 </a>
 
 <h2>Olá, eu sou o Saymon</h2>
 
 <p>
-Desenvolvedor Full Stack de Jaraguá do Sul (SC). Gosto de ver uma ideia virar algo que funciona de verdade,
-e dos detalhes que separam uma solução comum de uma bem construída: código limpo, testes, arquitetura
-e uma boa experiência para quem usa.
+Desenvolvedor Full Stack de Jaraguá do Sul (SC). Faço sites e agendas online para empresas de serviço:
+o site que leva o cliente direto ao WhatsApp e a agenda que organiza os atendimentos no celular.
+Também desenvolvo sistemas sob medida, como gestão de obras e de pedidos.
 </p>
 
 <ul>
@@ -15,30 +15,50 @@ e uma boa experiência para quem usa.
   <li>🎓 Cursando <strong>Engenharia de Software</strong> na Católica SC (2025 — 2029)</li>
   <li>📚 Formado em <strong>Desenvolvimento de Sistemas</strong> pelo CentroWEG, em parceria com o SENAI (2023 — 2025)</li>
   <li>🏅 Destaque <strong>Quick Kaizen</strong> nas Olimpíadas Kaizen da WEG (2025)</li>
-  <li>🧩 Também atendo empresas e empreendedores com sites, sistemas e soluções sob medida</li>
+  <li>🧩 Atendo empresas da região com sites, agendas online e sistemas: veja <a href="https://saymonthedev.com/#servicos">serviços e preços</a></li>
 </ul>
 
-<h2>Projetos em destaque</h2>
+<h2>Trabalhos</h2>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong><a href="https://saymonthedev.com">saymonthedev.com</a></strong><br />
-      <sub>Portfólio pessoal em português e inglês, com SEO, acessibilidade e Lighthouse 100 no desktop.</sub><br /><br />
-      <sub><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Cloudflare</code></sub><br />
-      <sub><a href="https://github.com/saymonthedev/saymonthedev.com">Repositório</a></sub>
+      <strong><a href="https://ortsclimatizacao.com.br">ORTS Climatização</a></strong><br />
+      <sub><em>Cliente</em> · site e agenda de atendimentos de uma empresa de ar-condicionado de Jaraguá do Sul. O dono vê os horários livres no celular, sem nada marcado em dobro.</sub><br /><br />
+      <sub><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code></sub><br />
+      <sub><a href="https://github.com/saymonthedev/agenda-orts-climatizacao">Repositório</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong><a href="https://agenda-marmoraria-stainhaus.vercel.app">Stainhaus</a></strong><br />
+      <sub><em>Cliente</em> · sistema de gestão de uma marmoraria: cada obra da medição à instalação, agenda de entregas e acesso por colaborador. Tem demonstração aberta.</sub><br /><br />
+      <sub><code>Next.js</code> <code>PostgreSQL</code> <code>Prisma</code></sub><br />
+      <sub><a href="https://github.com/saymonthedev/agenda-marmoraria">Repositório</a></sub>
     </td>
     <td width="33%" valign="top">
       <strong><a href="https://barbearia-cobre.vercel.app">Barbearia Cobre</a></strong><br />
-      <sub>Projeto conceitual: landing page e site com agendamento online em etapas e confirmação pelo WhatsApp.</sub><br /><br />
-      <sub><code>Next.js</code> <code>React</code> <code>Tailwind</code> <code>Vercel</code></sub><br />
+      <sub><em>Conceitual</em> · site de barbearia em que o cliente escolhe serviço, barbeiro e horário sozinho, com a confirmação pronta no WhatsApp.</sub><br /><br />
+      <sub><code>Next.js</code> <code>React</code> <code>Tailwind</code></sub><br />
       <sub><a href="https://github.com/saymonthedev/barbearia-cobre">Repositório</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
-      <strong><a href="https://github.com/saymonthedev/litoral-bordados">Litoral Bordados</a></strong><br />
-      <sub>Site institucional de bordados personalizados, com uma animação autoral de agulha bordando a marca.</sub><br /><br />
-      <sub><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>SVG</code></sub><br />
+      <strong><a href="https://litoralbordados.com">Litoral Bordados</a></strong><br />
+      <sub><em>Conceitual</em> · site de uma empresa de bordados, com a agulha bordando a marca ponto a ponto no topo e peças de exemplo geradas em código.</sub><br /><br />
+      <sub><code>Next.js</code> <code>TypeScript</code> <code>SVG</code></sub><br />
       <sub><a href="https://github.com/saymonthedev/litoral-bordados">Repositório</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong><a href="https://crosta-smash.vercel.app">Crosta</a></strong><br />
+      <sub><em>Conceitual</em> · cardápio de hamburgueria em que o cliente monta o lanche camada por camada e o pedido chega organizado no WhatsApp.</sub><br /><br />
+      <sub><code>Next.js</code> <code>React</code> <code>Tailwind</code></sub><br />
+      <sub><a href="https://github.com/saymonthedev/crosta">Repositório</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong><a href="https://dominio-politico.com.br">Domínio Político</a></strong><br />
+      <sub><em>Pessoal</em> · jogo de navegador que simula uma carreira política no Brasil a partir de dados reais do TSE e do Banco Central.</sub><br /><br />
+      <sub><code>Next.js</code> <code>Supabase</code> <code>PostgreSQL</code></sub><br />
+      <sub><a href="https://github.com/saymonthedev/dominio-politico">Repositório</a></sub>
     </td>
   </tr>
 </table>
