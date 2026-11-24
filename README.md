@@ -1,13 +1,13 @@
 <a href="https://saymonthedev.com">
-  <img src="./banner.svg" alt="Saymon Oliveira de Castro, desenvolvedor Full Stack: sites e agendas online para empresas de serviço" width="100%" />
+  <img src="./banner.svg" alt="Saymon Oliveira de Castro, desenvolvedor Full Stack: sites e sistemas sob medida para empresas de Jaraguá e região" width="100%" />
 </a>
 
 <h2>Olá, eu sou o Saymon</h2>
 
 <p>
-Desenvolvedor Full Stack de Jaraguá do Sul (SC). Faço sites e agendas online para empresas de serviço:
-o site que leva o cliente direto ao WhatsApp e a agenda que organiza os atendimentos no celular.
-Também desenvolvo sistemas sob medida, como gestão de obras e de pedidos.
+Desenvolvedor Full Stack de Jaraguá do Sul (SC). Faço sites e sistemas sob medida para empresas da região:
+o site que traz cliente pelo Google e leva direto ao WhatsApp e, quando a planilha não dá mais conta,
+o sistema que organiza o dia a dia, como agenda, orçamentos, obras e pedidos.
 </p>
 
 <ul>
@@ -15,7 +15,7 @@ Também desenvolvo sistemas sob medida, como gestão de obras e de pedidos.
   <li>🎓 Cursando <strong>Engenharia de Software</strong> na Católica SC (2025 — 2029)</li>
   <li>📚 Formado em <strong>Desenvolvimento de Sistemas</strong> pelo CentroWEG, em parceria com o SENAI (2023 — 2025)</li>
   <li>🏅 Destaque <strong>Quick Kaizen</strong> nas Olimpíadas Kaizen da WEG (2025)</li>
-  <li>🧩 Atendo empresas da região com sites, agendas online e sistemas: veja <a href="https://saymonthedev.com/#servicos">serviços e preços</a></li>
+  <li>🧩 Atendo empresas da região com sites e sistemas sob medida: veja <a href="https://saymonthedev.com/#servicos">serviços e preços</a></li>
 </ul>
 
 <h2>Trabalhos</h2>

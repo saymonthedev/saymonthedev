@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Saymon Oliveira de Castro, desenvolvedor Full Stack: sites e agendas online para empresas de serviço">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Saymon Oliveira de Castro, desenvolvedor Full Stack: sites e sistemas sob medida para empresas de Jaraguá e região">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1120"/><stop offset="1" stop-color="#05070B"/></linearGradient>
     <radialGradient id="glow" cx="0.86" cy="0.1" r="0.6"><stop offset="0" stop-color="#2563EB" stop-opacity="0.45"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
@@ -16,7 +16,7 @@
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
     <text x="330" y="118" font-size="16" letter-spacing="4" fill="#60A5FA" font-weight="600">DESENVOLVEDOR FULL STACK</text>
     <text x="328" y="172" font-size="46" fill="#F8FAFC" font-weight="700" letter-spacing="-1">Saymon Oliveira de Castro</text>
-    <text x="330" y="214" font-size="20" fill="#94A3B8">Sites e agendas online para empresas de serviço</text>
+    <text x="330" y="214" font-size="20" fill="#94A3B8">Sites e sistemas sob medida para empresas de Jaraguá e região</text>
     <circle cx="336" cy="250" r="5" fill="#34D399"/>
     <text x="350" y="256" font-size="16" fill="#CBD5E1">saymonthedev.com · Jaraguá do Sul, SC</text>
   </g>
